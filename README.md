@@ -238,4 +238,4 @@ This repository serves as the official landing page for Warface. The software is
 **Get the most recent version of Warface today!**
 
 ---
-**Last updated:** 2026-11-04 03:59:15 UTC
+**Last updated:** 2026-11-04 11:55:00 UTC
